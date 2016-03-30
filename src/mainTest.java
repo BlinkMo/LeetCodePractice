@@ -7,6 +7,7 @@ public class mainTest {
 		LeetCode_038_CountAndSay testCase = new LeetCode_038_CountAndSay();
 		String cout = testCase.countAndSay(x);
 		System.out.println(cout);
+		System.out.println("111");
 	}
 
 }
